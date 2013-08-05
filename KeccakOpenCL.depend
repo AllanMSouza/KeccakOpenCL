@@ -1,0 +1,217 @@
+# depslib dependency file v1.0
+1375232864 source:/home/allan/Documents/TCC/KeccakOpenCL/main.cpp
+	<cstdlib>
+	<iostream>
+	<fstream>
+	<sstream>
+	<string>
+	<cmath>
+	<errno.h>
+	<sys/stat.h>
+	<inttypes.h>
+	<CL/cl.hpp>
+
+1366283847 /usr/include/errno.h
+	<features.h>
+	<bits/errno.h>
+
+1366283827 /usr/include/features.h
+	<stdc-predef.h>
+	<sys/cdefs.h>
+	<gnu/stubs.h>
+
+1366283827 /usr/include/stdc-predef.h
+	<bits/predefs.h>
+
+1366283847 /usr/include/inttypes.h
+	<features.h>
+	<stdint.h>
+	<stddef.h>
+
+1366283847 /usr/include/stdint.h
+	<features.h>
+	<bits/wchar.h>
+	<bits/wordsize.h>
+
+1375147997 /usr/local/cuda/include/CL/cl.hpp
+	<windows.h>
+	<malloc.h>
+	<iterator>
+	<exception>
+	<CL/cl_d3d10.h>
+	<CL/cl_ext.h>
+	<OpenGL/OpenGL.h>
+	<OpenCL/opencl.h>
+	<libkern/OSAtomic.h>
+	<GL/gl.h>
+	<CL/opencl.h>
+	<utility>
+	<limits>
+	<vector>
+	<string>
+	<alloca.h>
+	<cstring>
+	<functional>
+	<tr1/functional>
+
+1366283849 /usr/include/malloc.h
+	<features.h>
+	<stddef.h>
+	<stdio.h>
+
+1366283848 /usr/include/stdio.h
+	<features.h>
+	<stddef.h>
+	<bits/types.h>
+	<libio.h>
+	<stdarg.h>
+	<bits/stdio_lim.h>
+	<bits/sys_errlist.h>
+	<getopt.h>
+	<bits/stdio.h>
+	<bits/stdio2.h>
+	<bits/stdio-ldbl.h>
+
+1366283848 /usr/include/libio.h
+	<_G_config.h>
+	<stdarg.h>
+	<sys/cdefs.h>
+	<bits/stdio-lock.h>
+	<shlib-compat.h>
+	<bits/libio-ldbl.h>
+
+1366283848 /usr/include/_G_config.h
+	<bits/types.h>
+	<stddef.h>
+	<wchar.h>
+	<gconv.h>
+
+1366283851 /usr/include/wchar.h
+	<features.h>
+	<stdio.h>
+	<stdarg.h>
+	<bits/wchar.h>
+	<stddef.h>
+	<wctype.h>
+	<xlocale.h>
+	<xlocale.h>
+	<xlocale.h>
+	<wctype.h>
+	<bits/wchar2.h>
+	<bits/wchar-ldbl.h>
+
+1366283856 /usr/include/wctype.h
+	<features.h>
+	<bits/types.h>
+	<wchar.h>
+	<endian.h>
+	<xlocale.h>
+
+1366283850 /usr/include/endian.h
+	<features.h>
+	<bits/endian.h>
+	<bits/byteswap.h>
+
+1366283828 /usr/include/xlocale.h
+
+1366283828 /usr/include/gconv.h
+	<features.h>
+	<wchar.h>
+	<stddef.h>
+
+1366283853 /usr/include/getopt.h
+	<ctype.h>
+
+1366283843 /usr/include/ctype.h
+	<features.h>
+	<bits/types.h>
+	<endian.h>
+	<xlocale.h>
+
+1372984430 /usr/local/cuda/include/CL/cl_ext.h
+	<OpenCL/cl.h>
+	<AvailabilityMacros.h>
+	<CL/cl.h>
+
+1372984430 /usr/local/cuda/include/CL/cl.h
+	<OpenCL/cl_platform.h>
+	<CL/cl_platform.h>
+
+1372984430 /usr/local/cuda/include/CL/cl_platform.h
+	<AvailabilityMacros.h>
+	<stdint.h>
+	<stddef.h>
+	<altivec.h>
+	<intrin.h>
+	<xmmintrin.h>
+	<intrin.h>
+	<emmintrin.h>
+	<mmintrin.h>
+	<intrin.h>
+	<immintrin.h>
+
+1372689733 /usr/include/GL/gl.h
+	"gl_mangle.h"
+	<stdlib.h>
+	<windows.h>
+	<GL/glext.h>
+
+1372689733 /usr/include/GL/gl_mangle.h
+
+1366283847 /usr/include/stdlib.h
+	<features.h>
+	<stddef.h>
+	<bits/waitflags.h>
+	<bits/waitstatus.h>
+	<xlocale.h>
+	<sys/types.h>
+	<alloca.h>
+	<bits/stdlib-float.h>
+	<bits/stdlib.h>
+	<bits/stdlib-ldbl.h>
+
+1366283847 /usr/include/alloca.h
+	<features.h>
+	<stddef.h>
+
+1372689733 /usr/include/GL/glext.h
+	<windows.h>
+	<stddef.h>
+	<inttypes.h>
+	<inttypes.h>
+	<inttypes.h>
+	<stdint.h>
+	<stdint.h>
+	<inttypes.h>
+
+1372984430 /usr/local/cuda/include/CL/opencl.h
+	<OpenCL/cl.h>
+	<OpenCL/cl_gl.h>
+	<OpenCL/cl_gl_ext.h>
+	<OpenCL/cl_ext.h>
+	<CL/cl.h>
+	<CL/cl_gl.h>
+	<CL/cl_gl_ext.h>
+	<CL/cl_ext.h>
+
+1372984430 /usr/local/cuda/include/CL/cl_gl.h
+	<OpenCL/cl.h>
+	<OpenGL/CGLDevice.h>
+	<CL/cl.h>
+
+1372984430 /usr/local/cuda/include/CL/cl_gl_ext.h
+	<OpenCL/cl_gl.h>
+	<CL/cl_gl.h>
+
+1375232632 source:/home/allan/Documents/TCC/KeccakOpenCL/KeccakSingleWorkItem.cpp
+	<cstdlib>
+	<CL/cl.hpp>
+	<iostream>
+	<fstream>
+	<sstream>
+	<string>
+	<cmath>
+	<errno.h>
+	<sys/stat.h>
+	<inttypes.h>
+
