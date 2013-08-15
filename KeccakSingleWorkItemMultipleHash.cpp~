@@ -153,7 +153,7 @@ int main(int argc, char** argv) {
     int qtdHash = atoi(argv[2]);
 
     const string platformName("gpu");
-    int deviceType = CL_DEVICE_TYPE_CPU;
+    int deviceType = CL_DEVICE_TYPE_GPU;
     const char* kernelFile = argv[1];
 
     try{
